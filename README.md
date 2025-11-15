@@ -15,12 +15,6 @@ Este proyecto implementa una aplicación de gestión de clínica veterinaria (Pe
 - Mockito
 - H2 Database (para tests)
 
-## Información del Proyecto
-
-- **GroupId**: `com.gerardo`
-- **ArtifactId**: `petclinic-lab12`
-- **Versión**: `0.0.1-SNAPSHOT`
-- **Paquete base**: `com.gerardo.petclinic`
 
 ## Ejecutar Tests
 
@@ -35,6 +29,4 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-## Autor
 
-Gerardo
