@@ -35,6 +35,4 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-## Autor
 
-Gerardo
